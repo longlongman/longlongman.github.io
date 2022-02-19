@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
 
 Publications
 ======
