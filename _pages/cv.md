@@ -14,7 +14,7 @@ Education
 * Ph.D. student, Nanjing University, 2019 - now
 * B.S., Xi'an Jiaotong University, 2015 - 2019
 
-Intern
+Internships
 ======
 * Institute for Al Industry Research (AIR), 2023 - now
 * ByteDance AI Lab, 2021 - 2023
