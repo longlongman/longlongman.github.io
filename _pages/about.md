@@ -15,6 +15,16 @@ Currently I am a Ph.D. student of the [AI school](https://ai.nju.edu.cn/main.htm
 
 My research focuses on the exploration and development of generative and pre-trained models, aiming to deeply understand their wide applications in the scientific domain. This includes utilizing generative models for targeted drug design, innovative protein structure design, and the construction of pre-trained models for biological structures.
 
+Education
+======
+* Ph.D. student, Nanjing University, 2019 - now
+* B.S., Xi'an Jiaotong University, 2015 - 2019
+
+Internships
+======
+* Institute for Al Industry Research (AIR), 2023 - now
+* ByteDance AI Lab, 2021 - 2023
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
