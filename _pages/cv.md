@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[中文](../files/cv_zh.pdf)
 
 Education
 ======
@@ -24,7 +25,3 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-PDF
-======
-[中文](../files/cv_zh.pdf)
