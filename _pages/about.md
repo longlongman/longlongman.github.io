@@ -24,12 +24,12 @@ Education
 
 Internships
 ======
-* Institute for Al Industry Research (AIR), 2023 - now
+* Tsinghua, Institute for Al Industry Research (AIR), 2023 - now
 * ByteDance AI Lab, 2021 - 2023
 
 Academic Services
 ======
-* Conference Reviewer: NeurIPS, ICML, ICLR, ACL
+* Conference Reviewer: NeurIPS, ICML, ICLR, ACL, EMNLP
 
 Publications
 ======
