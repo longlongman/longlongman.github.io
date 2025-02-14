@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Siyu Long / Homepage"
 title_separator          : "-"
 name                     : &name "Siyu Long"
-description              : &description "NJU Ph.D student"
+description              : &description "THU Postdoc"
 url                      : https://longlongman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "longlongman/longlongman.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Siyu Long"
   avatar           : "profile.jpeg"
-  bio              : "NJU Ph.D student"
-  location         : "NJU, Nanjing, Jiangsu, China"
+  bio              : "THU Postdoc"
+  location         : "THU, Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=aOfk1hsAAAAJ&hl=zh-CN"
-  email            : "longsy@smail.nju.edu.cn"
+  email            : "long.siyu.1997@foxmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
