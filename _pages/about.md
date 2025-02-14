@@ -11,7 +11,7 @@ redirect_from:
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-[中文简历](../files/cv_zh_1.pdf) [English CV](../files/cv_en_1.pdf)
+[中文简历](../files/cv_zh_2.pdf) [English CV](../files/cv_en_2.pdf)
 
 Currently I am a Ph.D. student of the [AI school](https://ai.nju.edu.cn/main.htm) in [Nanjing University](https://www.nju.edu.cn/main.htm) and a member of [NJUNLP Group](http://nlp.nju.edu.cn/homepage). Before that, I received the B.Sc. degree from the [school of computer science and technology](http://www.cs.xjtu.edu.cn) in [Xi'an Jiaotong University](http://www.xjtu.edu.cn).
 
